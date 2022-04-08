@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Academy Choucair" skipped="0" tests="1" time="64.38" timestamp="2022-04-07 09:47:49"><testcase name="Search for automation course"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+tasks.InsertRegister.performAs(InsertRegister.java:23)&#13;
+stepdefinitions.ChoucairStepDefinitions.thanBrandonWantsToLearnAutomationAtTheAcademyChoucair(ChoucairStepDefinitions.java:21)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
